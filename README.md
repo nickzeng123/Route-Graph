@@ -9,7 +9,8 @@ This project implements a custom routing engine that generates workout paths of 
 * **Elevation Tracking:** Calculates cumulative uphill vertical gain.
 
 ### 📊 Visualization
-![Interactive Route Map](https://nickzeng123.github.io/Route-Graph/)
+You can view the static report here:
+[**📄 View Route Map Report**](https://nickzeng123.github.io/Route-Graph/)
 
 ### 📋 Installation
 ```bash
